@@ -12,6 +12,10 @@ a:visited {
     color: green;
 }
 
+a:active {
+    color:blueviolet;
+}
+
 img {
     max-width: 200px;
     margin: .5rem;
