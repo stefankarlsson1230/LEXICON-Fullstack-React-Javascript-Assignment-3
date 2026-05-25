@@ -1,0 +1,37 @@
+body {
+    background-color: #eee;
+    max-width: 800px;
+    margin: auto;
+}
+
+a:link {
+    color:chocolate;
+}
+
+a:visited {
+    color: green;
+}
+
+img {
+    max-width: 200px;
+    margin: .5rem;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+table {
+    border-collapse: collapse;
+    margin-bottom: 1rem;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: .25rem .5rem;
+}
+
